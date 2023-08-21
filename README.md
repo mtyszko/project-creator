@@ -10,8 +10,6 @@ Folder structure:
   PROJECT NAME
   ├── project-assets
   └── project-name (git/gh repo)
-       ├── README.md (only in gh repo)
-       └── LICENSE (only in gh repo)
 ```
 
 Current templates:
@@ -29,7 +27,7 @@ To make sure that script works properly, you need to have [GitHub](https://githu
 
 - git
 - GitHub CLI (if you want to have GH repo configured)
-- npm 
+- npm
 
 ## Usage
 
