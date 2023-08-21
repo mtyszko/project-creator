@@ -1,6 +1,6 @@
 # Project Creator
 
-v0.0.1
+v1.0.0
 
 This tiny script creartes project folder with structure shown below, install basic template and initializes git repository. It also can creates repository on GitHub and pushes the project to it.
 
