@@ -205,7 +205,6 @@ function create_project {
     ;;
 
   "Vite")
-    c
     npm create vite@latest "$PROJECT_NAME_KEBABCASE"
     create_git_repo
     create_gh_repo
